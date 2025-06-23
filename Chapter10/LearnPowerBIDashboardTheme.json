@@ -5,18 +5,13 @@
 	"dataColors": 
 		[
 			"#EC670F",
-			
-"#3C3C3B",
+			"#3C3C3B",
 			"#E5EAEE",
-		
-	"#5C85E6", 
-		
-	"#29BCC0",
+			"#5C85E6", 
+			"#29BCC0",
 			"#7EAE40",
-			"#20B2E7"
-,
-			"#D3DCE0"
-,
+			"#20B2E7",
+			"#D3DCE0",
 			"#FF6B0F"
 		],
 	"tableAccent":"#20B2E7",
