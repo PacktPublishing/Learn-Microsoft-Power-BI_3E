@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <h1 align="center">
 Learn Microsoft Power BI, Third Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-in/product/learn-microsoft-power-bi-9781836647416"> Learn Microsoft Power BI, Third Edition</a>, published by Packt.
